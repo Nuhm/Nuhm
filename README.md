@@ -1,29 +1,29 @@
-# 👋 Hey there, I'm Michael Knox!
+# 👋 Hey, I'm Michael Knox
 
-### About Me
+### 💻 About Me
 
-I'm a Full Stack Web Developer based in the United Kingdom, passionate about crafting robust and user-centric web solutions. Currently, I'm diving deep into React JS to enhance my front-end skills and deliver more dynamic user experiences.
+I'm a final-year BSc (Hons) Computer Networks student based in the UK with a passion for building full-stack applications that combine performance, usability, and clean design. I recently completed a one-year placement as a Software Engineer at BAE Systems Digital Intelligence, where I worked on secure applications using Java, Firebird, MariaDB, and Apache.
 
-### Skills
+My current focus is developing **React** and **Electron** projects, including a **Wi-Fi Access Point Planning Tool** that simulates indoor signal coverage using wall materials and room layouts — merging my networking background with interactive software development.
 
-- **Languages**: C#, Java, JavaScript, Kotlin, PHP, Python
-- **Web Development**: HTML5, CSS3, jQuery, Node.js
-- **Frameworks & Libraries**: React JS (in progress), Flask
-- **Databases**: MySQL, Oracle
-- **DevOps & Tools**: Git, Docker, Linux
-- **Others**: .NET, Blender, Raspberry Pi
+### 🛠️ Skills
 
-### Let's Connect!
+- **Languages**: JavaScript (ES6+), TypeScript, Java, C#, Python, PHP, Kotlin
+- **Frontend**: React, HTML5, CSS3, jQuery, Electron
+- **Backend**: Node.js, Flask, .NET
+- **Databases**: MySQL, MariaDB, Firebird, Oracle
+- **Tools & DevOps**: Git, Docker, Linux, Jira, Jenkins, Gerrit, GitHub
+- **Other**: Raspberry Pi, Unity, Blender
 
-📧 Drop me a line at [michael.knox@talktalk.net](mailto:michael.knox@talktalk.net)  
-🤝 Open to collaborating on creative projects
+### 📬 Let's Connect
 
-### Socials
+Feel free to reach out or collaborate — I'm always up for interesting projects!
 
-Connect with me on:
+📧 [mknox2003@icloud.com](mailto:mknox2003@icloud.com)  
+🌐 [nuhm.dev](https://nuhm.dev) – my portfolio  
+🔗 [LinkedIn](https://www.linkedin.com/in/michaeladamknox)  
+🐙 [GitHub](https://github.com/Nuhm)
 
-- [GitHub](https://www.github.com/Nuhm)
-- [LinkedIn](https://www.linkedin.com/in/michael-knox-b269b71a4/)
 
 ### GitHub Stats
 
